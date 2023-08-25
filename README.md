@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agustín Martínez</h1>
+<h1 align="center">Hola 👋, soy Agustín Martínez</h1>
 <h3 align="center">Soy un full stack developer y estudiante de Ingeniería en Sistemas</h3>
 
 - 🌱 Actualmente aprendiendo **astra**
