@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Agustín Martínez</h1>
 <h3 align="center">Soy un full stack developer y estudiante de Ingeniería en Sistemas</h3>
 
-- 🌱 I’m currently learning **astra**
+- 🌱 Actualmente aprendiendo **astra**
 
-- 💬 Ask me about **html, css, react, django, mysql**
+- 💬 Preguntame sobre **html, css, react, django, mysql**
 
-- 📫 How to reach me **agustinmartinez2003@gmail.com**
+- 📫 Comunicate conmigo **agustinmartinez2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectá conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/agustín-martinez" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustín martinez" height="30" width="40" /></a>
 </p>
