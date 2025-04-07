@@ -1,11 +1,5 @@
-<h1 align="center">Hola 👋, soy Agustín Martínez</h1>
-<h3 align="center">Soy un full stack developer y estudiante de Ingeniería en Sistemas</h3>
-
-- 🌱 Actualmente aprendiendo **astra**
-
-- 💬 Preguntame sobre **html, css, react, django, mysql**
-
-- 📫 Comunicate conmigo **agustinmartinez2003@gmail.com**
+<h1 align="center">Hola, soy Agustín Martínez</h1>
+<h3 align="center">Soy analista de ciberseguridad y estudiante de Ingeniería en Sistemas</h3>
 
 <h3 align="left">Conectá conmigo:</h3>
 <p align="left">
